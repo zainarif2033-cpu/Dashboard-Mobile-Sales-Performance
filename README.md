@@ -9,4 +9,4 @@ Ahmed was the highest-value customer by total sales, generating approximately 8.
 Credit Card was the most frequently used payment method, accounting for 86 transactions, followed by UPI with 80.
 Tools:
 Microsoft Excel | Power BI | Power Query | DAX | Data Visualization 
-Dashboard Preview (
+Dashboard Preview (https://github.com/zainarif2033-cpu/Dashboard-Mobile-Sales-Performance/blob/main/Screenshot%202026-09-29%20221712.png?raw=true)
