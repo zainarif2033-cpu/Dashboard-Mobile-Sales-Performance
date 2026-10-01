@@ -10,3 +10,4 @@ Credit Card was the most frequently used payment method, accounting for 86 trans
 Tools:
 Microsoft Excel | Power BI | Power Query | DAX | Data Visualization 
 Dashboard Preview (https://github.com/zainarif2033-cpu/Dashboard-Mobile-Sales-Performance/blob/main/Screenshot%202026-09-29%20221712.png?raw=true)
+Dashboard Preview (https://github.com/zainarif2033-cpu/Dashboard-Mobile-Sales-Performance/blob/main/Screenshot%202026-09-29%20221204.png?raw=true)
