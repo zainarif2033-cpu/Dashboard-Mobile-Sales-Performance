@@ -1,4 +1,4 @@
-Project Title:
+# Project Title:
 Mobile Sales Performance Dashboard 
 Project Summary: 
 This project presents an end-to-end Power BI Mobile Sales Analysis designed to evaluate sales trends, identify top-performing regions, and track revenue growth to drive databacked business decisions.
