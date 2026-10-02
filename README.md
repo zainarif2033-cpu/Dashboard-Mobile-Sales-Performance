@@ -11,8 +11,3 @@ This project presents an end-to-end Power BI Mobile Sales Analysis designed to e
 
 ## Tools
 Microsoft Excel | Power BI | Power Query | DAX | Data Visualization
-
-## Dashboard Preview
-[Dashboard Preview 1](https://github.com/zainarif2033-cpu/Dashboard-Mobile-Sales-Performance/blob/main/Screenshot%202026-09-29%20221712.png?raw=true)
-
-[Dashboard Preview 2](https://github.com/zainarif2033-cpu/Dashboard-Mobile-Sales-Performance/blob/main/Screenshot%202026-09-29%20221204.png?raw=true)
